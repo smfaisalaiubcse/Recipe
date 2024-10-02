@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C77A08-A31A-4555-9B3B-CF9069C39AE1}|DAL\\DAL.csproj|C:\\Users\\S M Faisal\\Desktop\\Recipe\\dal\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C77A08-A31A-4555-9B3B-CF9069C39AE1}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C77A08-A31A-4555-9B3B-CF9069C39AE1}|DAL\\DAL.csproj|C:\\Users\\S M Faisal\\Desktop\\Recipe\\dal\\interfaces\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C77A08-A31A-4555-9B3B-CF9069C39AE1}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C77A08-A31A-4555-9B3B-CF9069C39AE1}|DAL\\DAL.csproj|C:\\Users\\S M Faisal\\Desktop\\Recipe\\dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C77A08-A31A-4555-9B3B-CF9069C39AE1}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFB98E1-2873-44F5-8B55-0C5A682E2792}|BLL\\BLL.csproj|C:\\Users\\S M Faisal\\Desktop\\Recipe\\bll\\services\\recipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BFB98E1-2873-44F5-8B55-0C5A682E2792}|BLL\\BLL.csproj|solutionrelative:bll\\services\\recipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C77A08-A31A-4555-9B3B-CF9069C39AE1}|DAL\\DAL.csproj|C:\\Users\\S M Faisal\\Desktop\\Recipe\\dal\\repos\\reciperepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C77A08-A31A-4555-9B3B-CF9069C39AE1}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\reciperepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD4006E-CC91-40C5-9945-B0B401D25EDC}|Recipe\\Recipe.csproj|c:\\users\\s m faisal\\desktop\\recipe\\recipe\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD4006E-CC91-40C5-9945-B0B401D25EDC}|Recipe\\Recipe.csproj|solutionrelative:recipe\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C77A08-A31A-4555-9B3B-CF9069C39AE1}|DAL\\DAL.csproj|C:\\Users\\S M Faisal\\Desktop\\Recipe\\dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C77A08-A31A-4555-9B3B-CF9069C39AE1}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD4006E-CC91-40C5-9945-B0B401D25EDC}|Recipe\\Recipe.csproj|c:\\users\\s m faisal\\desktop\\recipe\\recipe\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD4006E-CC91-40C5-9945-B0B401D25EDC}|Recipe\\Recipe.csproj|solutionrelative:recipe\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C77A08-A31A-4555-9B3B-CF9069C39AE1}|DAL\\DAL.csproj|C:\\Users\\S M Faisal\\Desktop\\Recipe\\dal\\ef\\pcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C77A08-A31A-4555-9B3B-CF9069C39AE1}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\pcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C77A08-A31A-4555-9B3B-CF9069C39AE1}|DAL\\DAL.csproj|C:\\Users\\S M Faisal\\Desktop\\Recipe\\dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C77A08-A31A-4555-9B3B-CF9069C39AE1}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C77A08-A31A-4555-9B3B-CF9069C39AE1}|DAL\\DAL.csproj|c:\\users\\s m faisal\\desktop\\recipe\\dal\\migrations\\202410011549145_faisal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C77A08-A31A-4555-9B3B-CF9069C39AE1}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202410011549145_faisal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C77A08-A31A-4555-9B3B-CF9069C39AE1}|DAL\\DAL.csproj|c:\\users\\s m faisal\\desktop\\recipe\\dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C77A08-A31A-4555-9B3B-CF9069C39AE1}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C77A08-A31A-4555-9B3B-CF9069C39AE1}|DAL\\DAL.csproj|C:\\Users\\S M Faisal\\Desktop\\Recipe\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C77A08-A31A-4555-9B3B-CF9069C39AE1}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C77A08-A31A-4555-9B3B-CF9069C39AE1}|DAL\\DAL.csproj|C:\\Users\\S M Faisal\\Desktop\\Recipe\\dal\\ef\\tablemodels\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C77A08-A31A-4555-9B3B-CF9069C39AE1}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tablemodels\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD4006E-CC91-40C5-9945-B0B401D25EDC}|Recipe\\Recipe.csproj|C:\\Users\\S M Faisal\\Desktop\\Recipe\\recipe\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD4006E-CC91-40C5-9945-B0B401D25EDC}|Recipe\\Recipe.csproj|solutionrelative:recipe\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C77A08-A31A-4555-9B3B-CF9069C39AE1}|DAL\\DAL.csproj|C:\\Users\\S M Faisal\\Desktop\\Recipe\\dal\\ef\\tablemodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C77A08-A31A-4555-9B3B-CF9069C39AE1}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tablemodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD4006E-CC91-40C5-9945-B0B401D25EDC}|Recipe\\Recipe.csproj|C:\\Users\\S M Faisal\\Desktop\\Recipe\\recipe\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6BD4006E-CC91-40C5-9945-B0B401D25EDC}|Recipe\\Recipe.csproj|solutionrelative:recipe\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFB98E1-2873-44F5-8B55-0C5A682E2792}|BLL\\BLL.csproj|C:\\Users\\S M Faisal\\Desktop\\Recipe\\bll\\dtos\\recipedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BFB98E1-2873-44F5-8B55-0C5A682E2792}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\recipedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFB98E1-2873-44F5-8B55-0C5A682E2792}|BLL\\BLL.csproj|C:\\Users\\S M Faisal\\Desktop\\Recipe\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BFB98E1-2873-44F5-8B55-0C5A682E2792}|BLL\\BLL.csproj|solutionrelative:bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFB98E1-2873-44F5-8B55-0C5A682E2792}|BLL\\BLL.csproj|C:\\Users\\S M Faisal\\Desktop\\Recipe\\bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BFB98E1-2873-44F5-8B55-0C5A682E2792}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFB98E1-2873-44F5-8B55-0C5A682E2792}|BLL\\BLL.csproj|C:\\Users\\S M Faisal\\Desktop\\Recipe\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BFB98E1-2873-44F5-8B55-0C5A682E2792}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecipeRepo.cs",
+              "DocumentMoniker": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\DAL\\Repos\\RecipeRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\RecipeRepo.cs",
+              "ToolTip": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\DAL\\Repos\\RecipeRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\RecipeRepo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:08:19.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepo.cs",
+              "ToolTip": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IRepo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:03:56.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\DAL\\Repos\\UserRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\UserRepo.cs",
+              "ToolTip": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\DAL\\Repos\\UserRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\UserRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:16:06.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\DAL\\Repos\\Repo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\Repo.cs",
+              "ToolTip": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\DAL\\Repos\\Repo.cs",
+              "RelativeToolTip": "DAL\\Repos\\Repo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:07:20.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PContext.cs",
+              "DocumentMoniker": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\DAL\\EF\\PContext.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\PContext.cs",
+              "ToolTip": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\DAL\\EF\\PContext.cs",
+              "RelativeToolTip": "DAL\\EF\\PContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:01:28.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RecipeController.cs",
+              "DocumentMoniker": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\Recipe\\Controllers\\RecipeController.cs",
+              "RelativeDocumentMoniker": "Recipe\\Controllers\\RecipeController.cs",
+              "ToolTip": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\Recipe\\Controllers\\RecipeController.cs",
+              "RelativeToolTip": "Recipe\\Controllers\\RecipeController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:28:38.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecipeService.cs",
+              "DocumentMoniker": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\BLL\\Services\\RecipeService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\RecipeService.cs",
+              "ToolTip": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\BLL\\Services\\RecipeService.cs",
+              "RelativeToolTip": "BLL\\Services\\RecipeService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwBoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:24:06.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\DAL\\DataAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\DAL\\DataAccess.cs",
+              "RelativeToolTip": "DAL\\DataAccess.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:16:54.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\DAL\\Interfaces\\IUserRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IUserRepo.cs",
+              "ToolTip": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\DAL\\Interfaces\\IUserRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IUserRepo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:04:39.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\Recipe\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Recipe\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\Recipe\\Global.asax.cs",
+              "RelativeToolTip": "Recipe\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:55:01.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "202410011549145_Faisal.cs",
+              "DocumentMoniker": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\DAL\\Migrations\\202410011549145_Faisal.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202410011549145_Faisal.cs",
+              "ToolTip": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\DAL\\Migrations\\202410011549145_Faisal.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202410011549145_Faisal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:49:29.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\DAL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\DAL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "DAL\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:49:03.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:49:14.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\DAL\\EF\\TableModels\\Recipe.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\TableModels\\Recipe.cs",
+              "ToolTip": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\DAL\\EF\\TableModels\\Recipe.cs",
+              "RelativeToolTip": "DAL\\EF\\TableModels\\Recipe.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:58:36.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\DAL\\EF\\TableModels\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\TableModels\\User.cs",
+              "ToolTip": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\DAL\\EF\\TableModels\\User.cs",
+              "RelativeToolTip": "DAL\\EF\\TableModels\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:58:47.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\Recipe\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Recipe\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\Recipe\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Recipe\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:45:21.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\Recipe\\Web.config",
+              "RelativeDocumentMoniker": "Recipe\\Web.config",
+              "ToolTip": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\Recipe\\Web.config",
+              "RelativeToolTip": "Recipe\\Web.config",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAD4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-01T07:17:18.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RecipeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\BLL\\DTOs\\RecipeDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\RecipeDTO.cs",
+              "ToolTip": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\BLL\\DTOs\\RecipeDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\RecipeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:22:43.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\BLL\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\BLL\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:23:19.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\BLL\\Services\\UserService.cs",
+              "RelativeToolTip": "BLL\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:27:04.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\S M Faisal\\Desktop\\Recipe\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:49:28.611Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
